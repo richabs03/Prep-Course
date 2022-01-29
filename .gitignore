@@ -5,3 +5,5 @@ package-lock.json
 # Eleventy
 _dist
 _cache
+
+lt.json
